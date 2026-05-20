@@ -1,1 +1,1 @@
-# Machine-learning-with-Python-Boot-Camp
+# Machine-learning-3 weeks-with-Python-Boot-Camp
